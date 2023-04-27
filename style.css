@@ -15,13 +15,13 @@ html {
   
   body {
     margin-bottom: 60px;
-    cursor: url(Imagenes/cursor.png), url(Imagenes/cursor.png), pointer;
+    cursor: url(Imagenes/cursor.png), auto;
 
    
    
   }
   a{
-    cursor: url(Imagenes/cursor.png), auto;
+ 
   }
   .audfondo{
     background-color: #7eccfb ;
@@ -160,9 +160,13 @@ html {
      }
      .img2{
       overflow: hidden;
+      
+      
+
      }
      .img2:hover{
       transform: scale(1.2);
+      
      }
      .color3
      {
